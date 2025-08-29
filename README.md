@@ -1,8 +1,8 @@
+## Endpoint
+- Production URL:  
+  `https://bfhl-vercel-python-1.vercel.app/bfhl`
 
 
-- Endpoint: POST `/bfhl`
-- Handler file: `api/bfhl.py`
-- Rewrite: `/bfhl` → `/api/bfhl` in `vercel.json`
 - User details:
   - user_id: `yash_singhal_19092004`
   - email: `singhalyash340@gmail.com`
