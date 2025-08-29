@@ -1,9 +1,9 @@
-# BFHL – Vercel Python (Final)
+
 
 - Endpoint: POST `/bfhl`
 - Handler file: `api/bfhl.py`
 - Rewrite: `/bfhl` → `/api/bfhl` in `vercel.json`
-- User details baked in:
+- User details:
   - user_id: `yash_singhal_19092004`
   - email: `singhalyash340@gmail.com`
   - roll_number: `22BCE0807`
